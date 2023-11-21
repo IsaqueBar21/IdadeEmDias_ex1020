@@ -1,0 +1,14 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\bin\Debug\net6.0\1020_IdadeEmDias.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\bin\Debug\net6.0\1020_IdadeEmDias.deps.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\bin\Debug\net6.0\1020_IdadeEmDias.runtimeconfig.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\bin\Debug\net6.0\1020_IdadeEmDias.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\bin\Debug\net6.0\1020_IdadeEmDias.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.AssemblyInfoInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.AssemblyInfo.cs
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\obj\Debug\net6.0\refint\1020_IdadeEmDias.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\obj\Debug\net6.0\1020_IdadeEmDias.genruntimeconfig.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\1020_IdadeEmDias\1020_IdadeEmDias\obj\Debug\net6.0\ref\1020_IdadeEmDias.dll
